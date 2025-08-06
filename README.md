@@ -13,7 +13,7 @@
 
 ## 🎓 About Me
 
-- 🏫 **[intel] 엣지 AI SW 아카데미(13회차)** 부트캠프 수료 예정 (2025)
+- 🏫 **[Intel] 엣지 AI SW 아카데미(13회차)** 부트캠프 수료 예정 (2025)
 - 💡 **Focus**: 인공지능, 컴퓨터비전, 자연어처리, 데이터 분석  
 - 🌍 **Location**: Seoul, Korea
 - 🎯 **Goal**: AI 솔루션으로 실생활 문제를 해결하는 개발자
@@ -53,7 +53,6 @@
 - **[양방향 수어번역 디바이스](https://github.com/juntaek-oh/sign-language-device)** - YOLOv8 + 자체 데이터셋으로 90% 정확도 달성
 - **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck)** - OpenPose + OpenVINO 실시간 키포인트 추적
 - **[게임 추천 시스템](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
-
 
 </td>
 <td width="50%">
@@ -108,18 +107,11 @@
 ## 📬 Connect With Me
 
 <div align="center">
-## 📬 Connect With Me
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-ojt8416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojt8416@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-juntaek--oh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juntaek-oh)
 
-📧 **이메일로 연락하기**  
-[![Email](https://img.shields.io/badge/ojt8416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojt8416@gmail.com?subject=GitHub%20포트폴리오%20문의)
-
-**또는 직접 복사**: `ojt8416@gmail.com`
-
-</div>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juntaek-oh)
-
+**📧 Direct Email**: ojt8416@gmail.com
 
 </div>
 
