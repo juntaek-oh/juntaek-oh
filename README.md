@@ -108,8 +108,16 @@
 ## 📬 Connect With Me
 
 <div align="center">
+## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojt8416@gmail.com)
+<div align="center">
+
+📧 **이메일로 연락하기**  
+[![Email](https://img.shields.io/badge/ojt8416@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojt8416@gmail.com?subject=GitHub%20포트폴리오%20문의)
+
+**또는 직접 복사**: `ojt8416@gmail.com`
+
+</div>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juntaek-oh)
 
 
