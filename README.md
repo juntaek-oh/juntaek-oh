@@ -51,9 +51,9 @@
 
 ### 🤖 **AI/ML Projects**
 - **[양방향 수어번역 디바이스](https://github.com/juntaek-oh/sign-language-device)** - YOLOv4 + 자체 데이터셋으로 90% 정확도 달성
-- **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck-detection)** - OpenPose + OpenVINO 실시간 키포인트 추적
+- **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck)** - OpenPose + OpenVINO 실시간 키포인트 추적
 - **[게임 추천 시스템](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
-- **[영화 추천 시스템](https://github.com/juntaek-oh/movie_for_you_intel_s4)** - Intel AI 프로젝트 협업 작업
+
 
 </td>
 <td width="50%">
