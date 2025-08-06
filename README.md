@@ -13,7 +13,7 @@
 
 ## 🎓 About Me
 
-- 🏫 **Intel Edge AI SW Academy** 6기 부트캠프 수료 예정 (2025)
+- 🏫 **[intel] 엣지 AI SW 아카데미(13회차)** 부트캠프 수료 예정 (2025)
 - 💡 **Focus**: 인공지능, 컴퓨터비전, 자연어처리, 데이터 분석  
 - 🌍 **Location**: Seoul, Korea
 - 🎯 **Goal**: AI 솔루션으로 실생활 문제를 해결하는 개발자
