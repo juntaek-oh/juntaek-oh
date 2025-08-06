@@ -91,7 +91,6 @@
 - [x] **개인 포트폴리오** 웹사이트 구축 완료
 - [ ] **AI 오픈소스 프로젝트** 기여하기 (목표: 3개 이상)
 - [ ] **첫 번째 취업** 성공하기 🚀
-- [ ] **기술 블로그** 꾸준히 작성하기 (월 2회 이상)
 - [ ] **AI 관련 대외활동** 참여하기
 
 ---
@@ -112,8 +111,7 @@
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ojt8416@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juntaek-oh)
-[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=hashnode&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 
 </div>
 
