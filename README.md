@@ -41,6 +41,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### **Embedded Systems**
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1F4F99?style=for-the-badge&logo=freertos&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -53,6 +59,10 @@
 - **[양방향 수어번역 디바이스](https://github.com/juntaek-oh/sign-language-device)** - YOLOv8 + 자체 데이터셋으로 90% 정확도 달성
 - **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck)** - OpenPose + OpenVINO 실시간 키포인트 추적
 - **[게임 추천 시스템](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
+
+### 🔧 **Embedded Systems**
+- **[스마트 축사 환경제어 시스템](https://github.com/juntaek-oh/Smart-ENV_control-system)** - STM32 + Raspberry Pi 실시간 온습도 모니터링 자동제어 
+- **[RTOS 자율주행 RC카](https://github.com/juntaek-oh/RTOS_RC_CAR)** - FreeRTOS 멀티태스킹 초음파 센서 기반 장애물 회피
 
 </td>
 <td width="50%">
