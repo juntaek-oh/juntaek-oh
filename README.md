@@ -82,36 +82,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 **AI/ML Projects**
-- **[양방향 수어번역 디바이스](https://github.com/juntaek-oh/sign-language-device)** - YOLOv8 + 자체 데이터셋으로 90% 정확도 달성
-- **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck)** - OpenPose + OpenVINO 실시간 키포인트 추적
-- **[게임 추천 시스템](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
-
-### 🔧 **Embedded Systems**
-- **[스마트 축사 환경제어 시스템](https://github.com/juntaek-oh/Smart-ENV_control-system)** - STM32 + Raspberry Pi 실시간 온습도 모니터링 자동제어 
-- **[RTOS 자율주행 RC카](https://github.com/juntaek-oh/RTOS_RC_CAR)** - FreeRTOS 멀티태스킹 초음파 센서 기반 장애물 회피
-
-</td>
-<td width="50%">
-
-### 📊 **Data Analysis**
-- **[크로스 플랫폼 쇼핑몰 분류기](https://github.com/juntaek-oh/Crawling_Project)** - 네이버↔카카오 데이터 호환 ML 모델 (77% 정확도)
-- **[뉴스 카테고리 분류](https://github.com/juntaek-oh/news_category_classfication)** - KoNLPy + 자연어처리 자동 분류
-
-### 🎵 **Personal Projects**  
-- **[MP3 플레이어](https://github.com/juntaek-oh/mp3_player)** - YouTube API 연동 스마트 음악 플레이어
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 GitHub Analytics
 
