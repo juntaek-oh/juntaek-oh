@@ -20,8 +20,9 @@
 
 ### 🤖 **AI/ML Projects**
 - **[양방향 수어번역 디바이스](https://github.com/juntaek-oh/sign-language-device)** - YOLOv8 + 자체 데이터셋으로 90% 정확도 달성
+- **[스팀 게임 추천기](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
 - **[거북목 자세 교정 AI](https://github.com/juntaek-oh/turtle-neck)** - OpenPose + OpenVINO 실시간 키포인트 추적
-- **[게임 추천 시스템](https://github.com/juntaek-oh/game_recommendation)** - TF-IDF + Word2Vec 하이브리드 추천 알고리즘
+
 
 ### 🔧 **Embedded Systems**
 - **[스마트 축사 환경제어 시스템](https://github.com/juntaek-oh/Smart-ENV_control-system)** - STM32 + Raspberry Pi 실시간 온습도 모니터링 자동제어 
