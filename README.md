@@ -30,14 +30,15 @@
 ---
 
 ### **데이터 분석 프로젝트**
+**🚗 [블랙박스 영상 분석 시스템](https://github.com/juntaek-oh/Blackbox)**
+- 블랙박스 영상에서 교통사고 및 위험 상황 자동 감지
+- **Tech**: Python, OpenCV, YOLO, 딥러닝
 
+- 
 **🛒 [크로스 플랫폼 쇼핑몰 분류기](https://github.com/juntaek-oh/Crawling_Project)**
 - 네이버↔카카오 상품 데이터 호환 ML 모델 (77% 정확도)
 - **Tech**: Python, Selenium, ML
 
-**🚗 [블랙박스 영상 분석 시스템](https://github.com/juntaek-oh/Blackbox)**
-- 블랙박스 영상에서 교통사고 및 위험 상황 자동 감지
-- **Tech**: Python, OpenCV, YOLO, 딥러닝
 
 ---
 
